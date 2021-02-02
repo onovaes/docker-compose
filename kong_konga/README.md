@@ -2,6 +2,8 @@
 
 With Postgres database
 
+Admin api [documentation](https://docs.konghq.com/2.0.x/admin-api/) 
+
 ## Running =D
     $docker-compose up
 
